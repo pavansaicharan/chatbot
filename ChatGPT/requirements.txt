@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask_PyMongo==2.3.0
+openai>=1.0.0
+python-dotenv
